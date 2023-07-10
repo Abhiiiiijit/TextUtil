@@ -1,0 +1,13 @@
+App
+<>
+    <nav>
+      <li>Home</li>
+      <li>About</li>
+    </nav>
+    <div className="container">
+      <p></p>
+      <h1>Hello {name}</h1>
+      <p>Welcome</p>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil qui dolor voluptatem velit, libero est corrupti deleniti rem a enim possimus porro aperiam doloremque nobis debitis atque voluptatibus illo praesentium distinctio aliquid quae maiores. Itaque illum a, fuga earum atque repellendus praesentium aperiam assumenda ipsum iure accusantium minima aspernatur qui!</p>
+    </div>
+    </>

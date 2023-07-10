@@ -1,0 +1,2 @@
+C:\Program Files\nodejs\
+npx create-react-app my-app
